@@ -1,0 +1,50 @@
+* {
+    font-family: Helvetica;
+}
+
+h1.title {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.brushes {
+    background-color: mediumspringgreen;
+}
+
+h2.frames {
+    background-color: lightcoral;
+}
+
+h2.paint {
+    background-color: skyblue;
+}
+
+img {
+    display: block;
+    height: 300px;
+    width: auto;
+    margin: 30px 0;
+}
+
+p {
+    display: inline;
+    font-size: 20px;
+}
+
+.blue {
+    font-weight: bold;
+    color: blue;
+}
+
+.bottom {
+    margin-bottom: 100px;
+}
